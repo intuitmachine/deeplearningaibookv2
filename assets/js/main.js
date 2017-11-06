@@ -54,7 +54,7 @@
 				alignment: 'center',
 				detach: false
 			});
-
+		
 		// Off-Canvas Navigation.
 
 			// Title Bar.
@@ -90,6 +90,7 @@
 				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
 					$('#titleBar, #navPanel, #page-wrapper')
 						.css('transition', 'none');
+
 
 	});
 

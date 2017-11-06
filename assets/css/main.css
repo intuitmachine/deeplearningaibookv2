@@ -1980,8 +1980,10 @@
 
 			#logo {
 				position: absolute;
-				height: 5em;
-				top: 50%;
+				/*height: 5em;
+				top: 50%;*/
+				height: 10em;
+				top: 25%;
 				left: 0;
 				width: 100%;
 				text-align: center;
