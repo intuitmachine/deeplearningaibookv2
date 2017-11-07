@@ -2015,7 +2015,7 @@
 				left: 0;
 				width: 100%;
 				text-align: center;
-				/*z-index: 10002;*/
+				
 
 			}
 
@@ -2052,7 +2052,7 @@
 							-ms-transition: all .25s ease-in-out;
 							transition: all .25s ease-in-out;
 							outline: 0;
-							/*z-index: 10002;*/
+							
 						}
 
 						#nav > ul > li:hover > a {
@@ -2615,7 +2615,7 @@
 
 			#logo {
 				text-align: center;
-				z-index: 10003;
+				
 			}
 
 				#logo h1 {
