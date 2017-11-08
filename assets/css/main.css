@@ -2794,3 +2794,11 @@
 }
 
 
+/*iframe*/
+iframe {
+
+max-width: 640px;
+max-height: 360px;
+min-width: 426px;
+min-height: 240px;
+}
